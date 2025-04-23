@@ -1,6 +1,4 @@
 """3. Разделить элементы списка на минимальный элемент."""
-
-
 def min_list(l):
     mn = float("inf")
     for i in range(len(l)):
